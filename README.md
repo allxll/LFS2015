@@ -1,4 +1,4 @@
 # LFS2015
 LFS, large fire setout
 
-hi!~
+NO, don't say hi.
